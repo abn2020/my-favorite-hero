@@ -8,7 +8,7 @@
 Projeto criado usando vite que se alimenta da API da Marvel que mostra a lista e os dados dos Heróis da HQ e também adicionar 5 heróis favoritos da HQ. Desenvolvido usando React JS.
 Aplicação conta com Filtro para listagem do personagem, paginação, limite de paginas, adição de heroi e remoção de sua equipe.
 
-Site do projeto: https://vx-charles.github.io/marvel-react/
+Site do projeto: https://github.com/abn2020/my-favorite-hero.git
 
 <h1 align="center">
   <img src="./git img/marvel-1.png" width="800" style="width: 100%;">
